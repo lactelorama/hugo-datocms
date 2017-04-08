@@ -1,0 +1,3 @@
+notifications:
+  webhooks:
+  - https://webhooks.datocms.com/12df7dfca7022e0fac20/deploy-results

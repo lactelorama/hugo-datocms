@@ -1,0 +1,14 @@
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDrafts = false
+baseURL = "http://hugo.florianrenel.com/"
+canonifyURLs = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "Florian's Awesome Hugo Site"
+  author = "Florian Rénel"
